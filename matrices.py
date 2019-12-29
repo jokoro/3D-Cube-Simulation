@@ -5,7 +5,7 @@ NOT_SCALAR_MESSAGE = 'scalar is not a real number'
 NOT_SAME_SIZE_MESSAGE = 'matrices are different sizes'
 
 
-class InvalidMatrixError(Exception):
+class InvalidMatrixError(Exception)
     pass
 
 
